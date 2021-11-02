@@ -1,23 +1,35 @@
-### Hi there 👋
+<h2> Hi, I'm Gnginx!</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Gnginx&theme=vue&show_icons=true" width="380">
+<p><em>Security Researcher and Bugbounty Hunter <br>
+  CTFer and Whitehat <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**Gnginx/Gnginx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Gnginx](https://img.shields.io/github/followers/zer0yu?label=follow%20github&style=flat-square)](https://github.com/Gnginx)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### More about me...
 
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-    ### 你好，世界 👋
-    - :orange_book: Focusing on Swift & iOS
-    - :hammer: Creator of applications and frameworks
-    - :ram: Founder the ObjCCN
-    - :meat_on_bone: Meat lover
+```go
+package main
+
+type Me struct{
+  Pronouns string
+  Code string
+  Job string
+  BestAndFavoriteSkill string
+  SweetHeart string
+}
+
+func main() {
+  me := &Me{
+    Job: "Security Researcher and RedTeam",
+    Prononus: "He/Him",
+    SweetHeart: "01",
+    Code: "PHP and Go and Python and Everythings",
+    BestAndFavoriteSkill: "Web Hacking :D"
+  }
+  _ = me
+}
+```
+---
