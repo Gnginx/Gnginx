@@ -4,7 +4,7 @@
   CTFer and Whitehat <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![GitHub Gnginx](https://img.shields.io/github/followers/zer0yu?label=follow%20github&style=flat-square)](https://github.com/Gnginx)
+[![GitHub Gnginx](https://img.shields.io/github/followers/Gnginx?label=follow%20github&style=flat-square)](https://github.com/Gnginx)
 
 <br>
 
